@@ -71,3 +71,8 @@ Job Type Breakdown — Full-time vs Contract vs Internship vs Part-time split
 -> LinkedIn dominates job listings across all CS roles followed by BeBee and Indeed
 
 -> Job postings dipped in Sep–Oct 2024 before recovering in Nov–Dec 2024
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+***Dashboard Screenshot*** -
+<img width="1442" height="807" alt="image" src="https://github.com/user-attachments/assets/a908ed16-8f11-4f4d-add6-20fa848ca4b8" />
+<img width="1437" height="809" alt="image" src="https://github.com/user-attachments/assets/1db9702b-84cd-4228-afb5-e6a15ea84a40" />
