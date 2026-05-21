@@ -5,7 +5,7 @@
 An interactive Power BI dashboard analyzing the global Computer Science job market using real-world job listing data. 
 The dashboard provides deep insights into job counts, salary distributions, work-from-home trends, hiring platforms, 
 and job types — with a drill-through feature to explore any job title in detail.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Dashboard Pages* -
 
 Page 1 — Jobs Overview -
@@ -50,7 +50,7 @@ Global Job Map — Bing Maps visual showing where jobs are located worldwide
 Platform Distribution — Bar chart of which platforms (LinkedIn, Indeed, BeBee etc.) have most listings for that role
 
 Job Type Breakdown — Full-time vs Contract vs Internship vs Part-time split
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Key Insights* -
 
 -> Data Engineer is the most in-demand CS role with 129K listings — outnumbering Data Analysts and Data Scientists
